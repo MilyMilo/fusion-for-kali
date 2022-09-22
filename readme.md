@@ -69,7 +69,7 @@ In the mouse window, enable _'Reverse Scroll Direction'_, if you're used to this
 ### 4. VSCode changes 
 _I use VSCode in Kali, as I think it's the most versitale editor, which comes in handy during a pentest. I imagine you can configure this accordingly with any other editor of choice._
 
-VSCode does not come with the ability to choose the MacOS keyboard layout on linux instal. To get the familiar feel you will need to:
+VSCode does not come with the ability to choose the MacOS keyboard layout on Linux install. To get the familiar feel you will need to:
 
 1. Open Default Keyboard Shortcuts (JSON), from the comand palette. 
 2. Open Keyboard Shortcuts (JSON) in another tab.
@@ -91,7 +91,7 @@ I'm personally very used to closing browser tabs with `Cmd+W`, this should be al
 
 
 ### 7. Escaping the VM 
-By disabling macos host shortcuts you won't be able to just `Ctrl+Left/Right` to escape the VM in fullscreen. You will need to use `Cmd+Ctrl` to ungrab the cursor from the VM.
+By disabling MacOS host shortcuts you won't be able to just `Ctrl+Left/Right` to escape the VM in fullscreen. You will need to use `Cmd+Ctrl` to ungrab the cursor from the VM.
 
 
 ## End Remarks
